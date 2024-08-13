@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "812b7acdafc2d576",
+    "type": "split",
+    "children": [
+      {
+        "id": "389dc2af6df510ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d3067c351af8042",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddf68e58e054b779",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "338b93c79deddc0c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "af39cb454b013013",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0678e1e78cdc159b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6f058170cbdf4110",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "69acb28fccd3c90a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "282113cc3547c2a3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cd8166ca55a06ed4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a83c0e4bdbb522ae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:AI Assistant: Open Assistant Prompt": false,
+      "cmdr:AI Assistant: Open Assistant Chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "338b93c79deddc0c",
+  "lastOpenFiles": [
+    "Hwk/Brown vs. Board of Education (1954).md",
+    "Hwk/Plan to Investigate the Effect of Light Intensity on the Rate of Photosynthesis.md",
+    "Scathed/Characters/Main Character.md",
+    "Scathed/Humanoid Species/Elves.md",
+    "Scathed/Humanoid Species/Humans.md",
+    "Scathed/Humanoid Species/The Alive.md",
+    "Scathed/Humanoid Species/Dwarves.md",
+    "Scathed/Humanoid Species/Spectrals.md",
+    "Scathed/Places & Structures/Wrath.md",
+    "Scathed/Places & Structures/Plynth.md",
+    "Scathed/Places & Structures/The Vault.md",
+    "Scathed/Characters",
+    "Scathed/Objects",
+    "Scathed/Outline.md",
+    "Scathed/Humanoid Species",
+    "Scathed/Places & Structures",
+    "Scathed/Manuscript.md",
+    "Scathed",
+    "Excalidraw",
+    "World Building/Humanoid Species",
+    "README.md",
+    "etra"
+  ]
+}

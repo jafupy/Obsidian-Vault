@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "37cffa41cf5e0932",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d6aad78ff304eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a36643a5d306d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scathed/Characters/Gaia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e8c9062eba3df69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06b7ea5537a4a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d3e5281f9a42a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14f3c91371829d90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Spectrals",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c7ba1e700ae94a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "c73700c86978bdb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c796bca5548d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d7179537b11209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1ae5d0ca375ce19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1c90e1d0007d6ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84f4debfad72eadf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb2b34087c8d1631",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "4f8d37151cccacf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "5766367bb782d308",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 457.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5766367bb782d308",
+  "lastOpenFiles": [
+    "Scathed/Humanoid Species/Spectrals.md",
+    "Scathed/Characters/Gaia.md",
+    "Scathed/Characters/Main Character.md",
+    "Scathed/Places & Structures/Plynth.md",
+    "Scathed/Humanoid Species/Elves.md",
+    "Scathed/Humanoid Species/Humans.md",
+    "Scathed/Humanoid Species/The Alive.md",
+    "Scathed/Humanoid Species/Dwarves.md",
+    "Test.md",
+    "Scathed/Places & Structures/The Vault.md",
+    "Scathed/Places & Structures/Wrath.md",
+    "Scathed/Language/Syntax.md",
+    "Norla/Objects/The Wraithen Staff.md",
+    "Scathed/Outline.md",
+    "Scathed/Objects",
+    "README.md",
+    "Scathed/Places & Structures",
+    "World Building/Humanoid Species/Spectrals.excalidraw.md",
+    "Excalidraw",
+    "Untitled",
+    "Mango",
+    "Hwk/Plan to Investigate the Effect of Light Intensity on the Rate of Photosynthesis.md",
+    "Mango/Syntax.md",
+    "Dystopian Sci Fi Fantasy book think/Characters",
+    "Dystopian Sci Fi Fantasy book think/Manuscript.md",
+    "Dystopian Sci Fi Fantasy book think/Outline.md",
+    "Hwk/Brown vs. Board of Education (1954).md",
+    "Dystopian Sci Fi Fantasy book think",
+    "Hwk",
+    "obsidian_ai_plugin/main.js",
+    "obsidian_ai_plugin/bun.lockb",
+    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/unified-signatures.md",
+    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
+    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/typedef.md",
+    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
+    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/switch-exhaustiveness-check.md",
+    "obsidian_ai_plugin/node_modules/ollama/examples/multimodal/cat.jpg"
+  ]
+}

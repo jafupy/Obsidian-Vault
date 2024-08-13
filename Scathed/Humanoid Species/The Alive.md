@@ -1,0 +1,1 @@
+"The alive" is a term coined by the [[Spectrals]], referring to any being that isn't undead. The Alive is mainly used as a term for Dwarves, Elves and Humans.
