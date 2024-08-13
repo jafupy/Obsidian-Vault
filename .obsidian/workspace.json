@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scathed/Humanoid Species/Spectrals.md",
+                "file": "Scathed/Thread.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,10 +67,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "eeb572a164fa915c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a36643a5d306d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e1ae5d0ca375ce19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 332.5
   },
   "right": {
     "id": "c73700c86978bdb4",
@@ -86,18 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scathed/Humanoid Species/Spectrals.md"
-              }
-            }
-          },
-          {
-            "id": "e1ae5d0ca375ce19",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Scathed/Thread.md"
               }
             }
           },
@@ -107,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scathed/Humanoid Species/Spectrals.md",
+                "file": "Scathed/Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scathed/Humanoid Species/Spectrals.md",
+                "file": "Scathed/Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,33 +164,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Scathed/Humanoid Species/Spectrals.md"
+                "file": "Scathed/Thread.md"
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "8515b43b789368bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18a36643a5d306d4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,24 +185,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1d3e5281f9a42a1",
+  "active": "ae3cdab885457348",
   "lastOpenFiles": [
-    "Scathed/Characters/Main Character.md",
+    "Mango.md",
     "Scathed/Thread.md",
-    "Scathed/Humanoid Species/Elves.md",
-    "README.md",
-    "Scathed/Characters/Gaia.md",
-    "Scathed/Humanoid Species/Spectrals.md",
-    "Scathed/Places & Structures/Plynth.md",
-    "Scathed/Humanoid Species/Humans.md",
-    "Scathed/Humanoid Species/The Alive.md",
-    "Scathed/Humanoid Species/Dwarves.md",
-    "Test.md",
-    "Scathed/Places & Structures/The Vault.md",
+    "Mango/Syntax.md",
+    "Scathed/Outline.md",
+    "Scathed/Manuscript.md",
     "Scathed/Places & Structures/Wrath.md",
+    "Scathed/Places & Structures/The Vault.md",
+    "Scathed/Places & Structures/The School of Alchemy.md",
+    "Scathed/Places & Structures/Plynth.md",
+    "Scathed/Humanoid Species/The Alive.md",
+    "Scathed/Humanoid Species/Spectrals.md",
+    "Scathed/Humanoid Species/Humans.md",
+    "Scathed/Humanoid Species/Elves.md",
+    "Scathed/Humanoid Species/Dwarves.md",
+    "Scathed/Characters/Main Character.md",
+    "Scathed/Characters/Gaia.md",
+    "elf.md",
+    "README.md",
+    "Test.md",
     "Scathed/Language/Syntax.md",
     "Norla/Objects/The Wraithen Staff.md",
-    "Scathed/Outline.md",
     "Scathed/Objects",
     "Scathed/Places & Structures",
     "World Building/Humanoid Species/Spectrals.excalidraw.md",
@@ -211,7 +215,6 @@
     "Untitled",
     "Mango",
     "Hwk/Plan to Investigate the Effect of Light Intensity on the Rate of Photosynthesis.md",
-    "Mango/Syntax.md",
     "Dystopian Sci Fi Fantasy book think/Characters",
     "Dystopian Sci Fi Fantasy book think/Manuscript.md",
     "Dystopian Sci Fi Fantasy book think/Outline.md",
@@ -220,10 +223,6 @@
     "Hwk",
     "obsidian_ai_plugin/main.js",
     "obsidian_ai_plugin/bun.lockb",
-    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/unified-signatures.md",
-    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
-    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/typedef.md",
-    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
     "obsidian_ai_plugin/node_modules/ollama/examples/multimodal/cat.jpg"
   ]
 }

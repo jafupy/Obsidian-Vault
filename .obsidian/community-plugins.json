@@ -10,5 +10,6 @@
   "obsidian-linter",
   "sample-plugin",
   "obsidian-icon-folder",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "tag-wrangler"
 ]
