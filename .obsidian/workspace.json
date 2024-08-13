@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9d6aad78ff304eb",
+        "id": "53bf6f00932747b3",
         "type": "tabs",
         "children": [
           {
-            "id": "18a36643a5d306d4",
+            "id": "ae3cdab885457348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scathed/Characters/Gaia.md",
+                "file": "Scathed/Humanoid Species/Spectrals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Spectrals",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scathed/Humanoid Species/Spectrals.md"
+              }
             }
           },
           {
@@ -105,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scathed/Humanoid Species/Spectrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scathed/Humanoid Species/Spectrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,23 +147,34 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
-            }
-          },
-          {
-            "id": "5766367bb782d308",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "state": {
+                "file": "Scathed/Humanoid Species/Spectrals.md"
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
+      },
+      {
+        "id": "8515b43b789368bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a36643a5d306d4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 387.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5766367bb782d308",
+  "active": "f1d3e5281f9a42a1",
   "lastOpenFiles": [
-    "Scathed/Humanoid Species/Spectrals.md",
-    "Scathed/Characters/Gaia.md",
     "Scathed/Characters/Main Character.md",
-    "Scathed/Places & Structures/Plynth.md",
+    "Scathed/Thread.md",
     "Scathed/Humanoid Species/Elves.md",
+    "README.md",
+    "Scathed/Characters/Gaia.md",
+    "Scathed/Humanoid Species/Spectrals.md",
+    "Scathed/Places & Structures/Plynth.md",
     "Scathed/Humanoid Species/Humans.md",
     "Scathed/Humanoid Species/The Alive.md",
     "Scathed/Humanoid Species/Dwarves.md",
@@ -188,7 +205,6 @@
     "Norla/Objects/The Wraithen Staff.md",
     "Scathed/Outline.md",
     "Scathed/Objects",
-    "README.md",
     "Scathed/Places & Structures",
     "World Building/Humanoid Species/Spectrals.excalidraw.md",
     "Excalidraw",
@@ -208,7 +224,6 @@
     "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
     "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/typedef.md",
     "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
-    "obsidian_ai_plugin/node_modules/@typescript-eslint/eslint-plugin/docs/rules/switch-exhaustiveness-check.md",
     "obsidian_ai_plugin/node_modules/ollama/examples/multimodal/cat.jpg"
   ]
 }

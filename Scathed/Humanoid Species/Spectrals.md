@@ -1,7 +1,7 @@
 # Spectrals
 #spectrals
 
-Spectrals are mystical beings often regarded as vile creatures. Although they are not considered truly alive, they persist in an undead state, tethered to life. Spectrals have long lifespans, averaging 500 years. In Norla, the general population holds a deep disdain for Spectrals, driving them to the northern regions.
+Spectrals are mystical beings often regarded as vile creatures. Although they are not considered truly alive, they persist in an undead state, tethered to life. Spectrals have long lifespans, averaging 500 years. In Norria, the general population holds a deep disdain for Spectrals, driving them to the northern regions.
 
 ## Stasis
 
