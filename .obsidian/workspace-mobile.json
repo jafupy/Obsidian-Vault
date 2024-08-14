@@ -11,8 +11,13 @@
             "id": "0d3067c351af8042",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -67,10 +72,21 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "329bae6971c4dd57",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "69acb28fccd3c90a",
@@ -82,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily/2024-08-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily/2024-08-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily/2024-08-14.md"
+          }
         }
       }
     ],
@@ -116,18 +136,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:AI Assistant: Open Assistant Prompt": false,
-      "cmdr:AI Assistant: Open Assistant Chat": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Git: Commit all changes": false,
+      "cmdr:Git: Push": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "338b93c79deddc0c",
+  "active": "0d3067c351af8042",
   "lastOpenFiles": [
+    "Scathed/Characters/Aelis.md",
+    "Daily/2024-08-14.md",
+    "Daily",
     "Hwk/Brown vs. Board of Education (1954).md",
     "Hwk/Plan to Investigate the Effect of Light Intensity on the Rate of Photosynthesis.md",
     "Scathed/Characters/Main Character.md",

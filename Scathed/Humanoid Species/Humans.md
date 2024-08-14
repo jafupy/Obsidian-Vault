@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "#Human"
-group: Scathed
+  - "#Scathed/Human"
 ---
 
 # Humans
+#Scathed 
 
 Humans are the most basic and magicless of the sentient races, lacking the innate ability to wield [The Thread](Thread.md), unlike [Elves](Elves.md), [Dwarves](Dwarves.md), and [Spectrals](Spectrals.md). 
 

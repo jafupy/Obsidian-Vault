@@ -1,6 +1,27 @@
 {
-  "cascadeColors": false,
-  "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "391E14GMddGe5y2Zmt2fV",
+      "name": "Old Rose",
+      "value": "#cb8b8c"
+    },
+    {
+      "id": "jfhEh3Hxr3IM0R-aec1gs",
+      "name": "Prussian Blue",
+      "value": "#1e293b"
+    },
+    {
+      "id": "IZPaF5P90za4cQsayQaD1",
+      "name": "Platinum",
+      "value": "#dce1de"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Scathed",
+      "color": "391E14GMddGe5y2Zmt2fV"
+    }
+  ]
 }

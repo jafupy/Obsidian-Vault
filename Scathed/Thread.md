@@ -1,5 +1,7 @@
 # The Thread
 
+#Scathed 
+
 The Thread is the magic system, rooted in runes, enchantments, and body movement. It can be utilised by [Elves](Elves.md), [Dwarves](Dwarves.md), and [Spectrals](Spectrals.md). The Thread is believed to originate from The Creator.
 
 ## Origin and History

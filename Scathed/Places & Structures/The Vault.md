@@ -1,7 +1,5 @@
----
-group: Scathed
----
 # The Vault
+#Scathed 
 
 The vault is a prison inside Wrath. The Vault has 3 layers, varying in security. 
 
