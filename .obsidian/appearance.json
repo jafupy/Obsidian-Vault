@@ -1,9 +1,12 @@
 {
-  "cssTheme": "Typomagical",
+  "cssTheme": "",
   "translucency": true,
   "showViewHeader": true,
   "textFontFamily": "Georgia",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "interfaceFontFamily": "Manrope",
-  "accentColor": "#cb8b8c"
+  "accentColor": "#cb8b8c",
+  "enabledCssSnippets": [
+    "jf"
+  ]
 }

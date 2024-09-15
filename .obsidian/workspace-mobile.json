@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-08-14.md",
+                "file": "Daily/2024-08-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-08-14.md",
+            "file": "Daily/2024-08-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-08-14.md",
+            "file": "Daily/2024-08-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-08-14.md"
+            "file": "Daily/2024-08-20.md"
           }
         }
       }
@@ -149,8 +149,20 @@
   },
   "active": "0d3067c351af8042",
   "lastOpenFiles": [
-    "Scathed/Characters/Aelis.md",
+    "Daily/2024-08-17.md",
+    "Daily/2024-08-20.md",
     "Daily/2024-08-14.md",
+    "phonology.md",
+    "Untitled.md",
+    "JaFu.md",
+    "Scathed/Writing/PLOT IDEAS.md",
+    "Scathed/Writing/Outline.md",
+    "Scathed/Writing/Manuscript.md",
+    "Scathed/Writing",
+    "Scathed/Scathed.md",
+    "Aklea/Aklea.md",
+    "Aklea",
+    "Scathed/Characters/Aelis.md",
     "Daily",
     "Hwk/Brown vs. Board of Education (1954).md",
     "Hwk/Plan to Investigate the Effect of Light Intensity on the Rate of Photosynthesis.md",
@@ -172,7 +184,6 @@
     "Scathed",
     "Excalidraw",
     "World Building/Humanoid Species",
-    "README.md",
-    "etra"
+    "README.md"
   ]
 }

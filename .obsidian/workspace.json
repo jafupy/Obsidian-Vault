@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae3cdab885457348",
+            "id": "da7a33570e40ad3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scathed/Humanoid Species/Dwarves.md",
+                "file": "Mango/Mango.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f7ee8182204cc86a",
+            "id": "ab6115b050a7968c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scathed/Writing/PLOT IDEAS.md",
+                "file": "site/bio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,85 +34,15 @@
             }
           },
           {
-            "id": "0f34c08672d7e4c1",
+            "id": "47199c36d05942b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Me.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "149902df1e7a8271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scathed/Scathed.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938cd03e6eadf64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scathed/Scathed.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef98cf102a0fb8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scathed/Writing/Outline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff6e352d473dfe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scathed/Writing/Outline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "658cdbacdb336b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scathed/Writing/PLOT IDEAS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,8 +98,13 @@
             "id": "18a36643a5d306d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-08-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -182,8 +117,27 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "938cd03e6eadf64e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "82d7179537b11209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,14 +151,6 @@
         "id": "87c796bca5548d9f",
         "type": "tabs",
         "children": [
-          {
-            "id": "82d7179537b11209",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
           {
             "id": "e1c90e1d0007d6ff",
             "type": "leaf",
@@ -251,14 +197,21 @@
               "type": "file-properties",
               "state": {}
             }
+          },
+          {
+            "id": "56eacf2fbc0854b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,45 +223,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Git: Commit all changes": false,
       "cmdr:Git: Push": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18a36643a5d306d4",
+  "active": "47199c36d05942b0",
   "lastOpenFiles": [
+    "site/bio.md",
+    "JaFu.md",
+    "site",
+    "Mango/Mango.md",
+    "Daily/2024-09-14.md",
+    "Scathed/Scathed.md",
+    "Read Me.md",
+    "Scathed/Humanoid Species/Dwarves.md",
+    "Daily/2024-09-05.md",
+    "Plot Ideas.md",
+    "Writing",
+    "Daily/2024-09-03.md",
     "Scathed/Writing/Outline.md",
+    "Excalidraw/Drawing 2024-08-26 13.20.29.excalidraw.md",
+    "Untitled.mdoc.md",
+    "Excalidraw",
+    "Daily/2024-08-26.md",
+    "Daily/2024-08-20.md",
+    "Daily/2024-08-20 2.md",
+    "Aklea/Phonology.md",
     "Scathed/Writing/PLOT IDEAS.md",
     "Scathed/Characters/Gaia.md",
     "Scathed/Writing",
     "Scathed/Writing/Manuscript.md",
-    "Scathed/Scathed.md",
-    "Untitled.md",
-    "phonology.md",
     "Aklea/Aklea.md",
-    "Read Me.md",
-    "Mango/Mango.md",
     "Daily/2024-08-14.md",
-    "JaFu.md",
     "Scathed/Thread.md",
     "-0.md",
     "Aklea",
     "Daily",
     "Scathed/Places & Structures/The School of Alchemy.md",
-    "Scathed/Places & Structures/Wrath.md",
-    "Scathed/Places & Structures/The Vault.md",
-    "Scathed/Places & Structures/Plynth.md",
-    "Scathed/Humanoid Species/The Alive.md",
-    "Scathed/Humanoid Species/Dwarves.md",
-    "Scathed/Humanoid Species/Spectrals.md",
-    "Scathed/Humanoid Species/Humans.md",
-    "Scathed/Humanoid Species/Elves.md",
-    "Scathed/Characters/Aelis.md",
     "Mango",
     "Scathed/Objects",
     "Scathed/Places & Structures",
-    "Excalidraw",
     "Mango",
-    "Dystopian Sci Fi Fantasy book think/Characters",
-    "Dystopian Sci Fi Fantasy book think",
     "obsidian_ai_plugin/node_modules/ollama/examples/multimodal/cat.jpg"
   ]
 }
